@@ -26,8 +26,8 @@
 - Postman: https://www.postman.com/downloads
 
 ### Your Progress Tracker
-- Google Sheet: [YOUR LINK HERE]
-- GitHub Repo: https://github.com/[YOUR-USERNAME]/TechTweet-Learning
+- Google Sheet: https://docs.google.com/spreadsheets/d/1DpZY8TyRJ8SatF6hByQfNR24BoUggfxPaQipe09RHuM/edit?pli=1&gid=0#gid=0
+- GitHub Repo: https://github.com/harrympotter26-dev/TechTweet-Learning
 
 ---
 
