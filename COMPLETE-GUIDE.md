@@ -30,6 +30,14 @@
 - GitHub Repo: https://github.com/harrympotter26-dev/TechTweet-Learning
 
 ---
+## BEFORE STARTING
+
+# Windows/Mac - Download these
+Visual Studio 2022 Community: https://visualstudio.microsoft.com/vs/community/
+SQL Server Developer Edition: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+Git: https://git-scm.com/download
+Node.js & npm: https://nodejs.org/ (for Angular)
+
 
 ## ⏰ DAILY TASKS BY WEEK
 
